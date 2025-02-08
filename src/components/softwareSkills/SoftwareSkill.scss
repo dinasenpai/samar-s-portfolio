@@ -29,3 +29,56 @@
 .software-skill-inline > i:hover ~ p {
   color: $skillsColor;
 }
+
+.django-icon {
+  // Replace with your preferred styling for the Django icon
+  background: url("https://img.icons8.com/windows/32/868e96/django.png") no-repeat center center; // Path to your SVG
+  background-size: contain;
+  width: 3rem;   // Adjust size as needed
+  height: 3rem;  // Adjust size as needed
+  display: inline-block;
+}
+
+.django-icon:hover {
+  background: url("https://img.icons8.com/windows/32/645beb/django.png") no-repeat center center; // Path to your SVG
+  background-size: contain;
+  width: 3rem;   // Adjust size as needed
+  height: 3rem;  // Adjust size as needed
+  display: inline-block;
+}
+
+.mongoDB-icon {
+  // Replace with your preferred styling for the Django icon
+  background: url("https://img.icons8.com/external-tal-revivo-bold-tal-revivo/24/c8ceea/external-mongodb-a-cross-platform-document-oriented-database-program-logo-bold-tal-revivo.png") no-repeat center center; // Path to your SVG
+  background-size: contain;
+  width: 3rem;   // Adjust size as needed
+  height: 3rem;  // Adjust size as needed
+  display: inline-block;
+}
+
+.mongoDB-icon:hover {
+  // Replace with your preferred styling for the Django icon
+  background: url("https://img.icons8.com/external-tal-revivo-bold-tal-revivo/24/645beb/external-mongodb-a-cross-platform-document-oriented-database-program-logo-bold-tal-revivo.png") no-repeat center center; // Path to your SVG
+  background-size: contain;
+  width: 3rem;   // Adjust size as needed
+  height: 3rem;  // Adjust size as needed
+  display: inline-block;
+}
+
+.Cpp-icon {
+  // Replace with your preferred styling for the Django icon
+  background: url("https://img.icons8.com/ios-filled/50/c8ceea/c-plus-plus-logo.png") no-repeat center center; // Path to your SVG
+  background-size: contain;
+  width: 3rem;   // Adjust size as needed
+  height: 3rem;  // Adjust size as needed
+  display: inline-block;
+}
+
+.Cpp-icon:hover {
+  // Replace with your preferred styling for the Django icon
+  background: url("https://img.icons8.com/ios-filled/50/645beb/c-plus-plus-logo.png") no-repeat center center; // Path to your SVG
+  background-size: contain;
+  width: 3rem;   // Adjust size as needed
+  height: 3rem;  // Adjust size as needed
+  display: inline-block;
+}
