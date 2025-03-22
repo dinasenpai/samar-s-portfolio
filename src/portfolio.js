@@ -221,12 +221,12 @@ const bigProjects = {
   projects: [
     {
       image: require("./assets/images/wizhatlogo.png"),
-      projectName: "Wardrobe Wizard",
+      projectName: "Wakubo",
       projectDesc: "AI-powered Django platform enabling instant Virtual Try-Ons, personalized outfit recommendations, and wardrobe integration. Patented system analyzes user preferences to suggest styles, connects shoppers with brands, and streamlines decision-making via uploaded clothing visualizations. Enhances shopping efficiency with AI-driven insights",
       footerLink: [
         {
           name: "Visit Website",
-          url: "http://saayahealth.com/"
+          url: "http://wakubo.com/"
         }
         //  you can add extra buttons here.
       ]
