@@ -220,7 +220,7 @@ const bigProjects = {
   subtitle: "TECH INNOVATIONS",
   projects: [
     {
-      image: require("./assets/images/wizhatlogo.png"),
+      image: require("./assets/images/wakubologo.png"),
       projectName: "Wakubo",
       projectDesc: "AI-powered Django platform enabling instant Virtual Try-Ons, personalized outfit recommendations, and wardrobe integration. Patented system analyzes user preferences to suggest styles, connects shoppers with brands, and streamlines decision-making via uploaded clothing visualizations. Enhances shopping efficiency with AI-driven insights",
       footerLink: [
